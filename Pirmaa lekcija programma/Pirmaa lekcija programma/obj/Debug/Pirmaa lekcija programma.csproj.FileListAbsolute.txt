@@ -1,0 +1,7 @@
+C:\Users\ragin\source\repos\Lesson1\Pirmaa lekcija programma\Pirmaa lekcija programma\bin\Debug\Pirmaa lekcija programma.exe.config
+C:\Users\ragin\source\repos\Lesson1\Pirmaa lekcija programma\Pirmaa lekcija programma\bin\Debug\Pirmaa lekcija programma.exe
+C:\Users\ragin\source\repos\Lesson1\Pirmaa lekcija programma\Pirmaa lekcija programma\bin\Debug\Pirmaa lekcija programma.pdb
+C:\Users\ragin\source\repos\Lesson1\Pirmaa lekcija programma\Pirmaa lekcija programma\obj\Debug\Pirmaa lekcija programma.csproj.AssemblyReference.cache
+C:\Users\ragin\source\repos\Lesson1\Pirmaa lekcija programma\Pirmaa lekcija programma\obj\Debug\Pirmaa lekcija programma.csproj.CoreCompileInputs.cache
+C:\Users\ragin\source\repos\Lesson1\Pirmaa lekcija programma\Pirmaa lekcija programma\obj\Debug\Pirmaa lekcija programma.exe
+C:\Users\ragin\source\repos\Lesson1\Pirmaa lekcija programma\Pirmaa lekcija programma\obj\Debug\Pirmaa lekcija programma.pdb

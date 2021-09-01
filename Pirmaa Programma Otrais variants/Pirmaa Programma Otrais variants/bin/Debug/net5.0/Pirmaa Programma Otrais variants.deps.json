@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pirmaa Programma Otrais variants/1.0.0": {
+        "runtime": {
+          "Pirmaa Programma Otrais variants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pirmaa Programma Otrais variants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

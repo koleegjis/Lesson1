@@ -1,0 +1,16 @@
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\bin\Debug\net5.0\Pirmaa Programma Otrais variants.exe
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\bin\Debug\net5.0\Pirmaa Programma Otrais variants.deps.json
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\bin\Debug\net5.0\Pirmaa Programma Otrais variants.runtimeconfig.json
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\bin\Debug\net5.0\Pirmaa Programma Otrais variants.runtimeconfig.dev.json
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\bin\Debug\net5.0\Pirmaa Programma Otrais variants.dll
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\bin\Debug\net5.0\ref\Pirmaa Programma Otrais variants.dll
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\bin\Debug\net5.0\Pirmaa Programma Otrais variants.pdb
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\Pirmaa Programma Otrais variants.csproj.AssemblyReference.cache
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\Pirmaa Programma Otrais variants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\Pirmaa Programma Otrais variants.AssemblyInfoInputs.cache
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\Pirmaa Programma Otrais variants.AssemblyInfo.cs
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\Pirmaa Programma Otrais variants.csproj.CoreCompileInputs.cache
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\Pirmaa Programma Otrais variants.dll
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\ref\Pirmaa Programma Otrais variants.dll
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\Pirmaa Programma Otrais variants.pdb
+C:\Users\ragin\source\repos\Lesson1\Pirmaa Programma Otrais variants\Pirmaa Programma Otrais variants\obj\Debug\net5.0\Pirmaa Programma Otrais variants.genruntimeconfig.cache
