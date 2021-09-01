@@ -5,3 +5,4 @@ es to redigjeeju
 varbūt pat BEZ garumzīmēm
 JAUNA LOKĀLI VEIDOTA RINDA
 VĒL JAUNUMI
+un vēl darbojos
